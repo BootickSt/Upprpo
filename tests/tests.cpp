@@ -8,4 +8,3 @@ TEST(SUM, int_double_TEST) {
     EXPECT_EQ(sum(0.6, 0.6), 1.2);
     EXPECT_EQ(sum(1, 1), 2);
 }
-}
